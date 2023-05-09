@@ -1,0 +1,8 @@
+public class javatesting {
+
+	public static void main(String[] args) {
+		
+        System.out.printlin("fala gayzada!");
+	}
+
+}
